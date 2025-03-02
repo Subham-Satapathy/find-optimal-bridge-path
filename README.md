@@ -1,5 +1,5 @@
 
-## MERCLE Assignment Project
+## Find optimal bridge path
 
 This project provides various utilities and services for managing and interacting with blockchain-based processes, focusing on efficient route calculations, bridge fees, and user balance fetching.
 
